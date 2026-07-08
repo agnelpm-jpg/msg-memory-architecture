@@ -79,7 +79,7 @@ msg-memory-architecture/
 
 ```bash
 # Clone the repository
-git clone https://github.com/agnel/msg-memory-architecture.git
+git clone https://github.com/agnelpm-jpg/msg-memory-architecture
 cd msg-memory-architecture
 
 # Install dependencies
@@ -194,7 +194,7 @@ If you use MSG or this code in your research, please cite:
   author={Suresh, Agnel},
   journal={arXiv preprint},
   year={2026},
-  url={https://github.com/agnel/msg-memory-architecture}
+  url={https://github.com/agnelpm-jpg/msg-memory-architecture}
 }
 ```
 

@@ -8,7 +8,7 @@ authors:
     given-names: "Agnel"
     affiliation: "Machfold Ventures"
     email: "agnelpm@gmail.com"
-repository-code: "https://github.com/agnel/msg-memory-architecture"
+repository-code: "https://github.com/agnelpm-jpg/msg-memory-architecture"
 license: MIT
 version: 2.0.0
 date-released: 2026-07-08
@@ -31,4 +31,4 @@ preferred-citation:
       given-names: "Agnel"
   year: 2026
   journal: "arXiv preprint"
-  url: "https://github.com/agnel/msg-memory-architecture"
+  url: "https://github.com/agnelpm-jpg/msg-memory-architecture"
