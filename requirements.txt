@@ -1,0 +1,13 @@
+# MSG Simulation Harness Dependencies
+# Python 3.12+
+
+numpy>=2.0.0
+networkx>=3.3
+matplotlib>=3.9.0
+
+# Optional: for extended analysis
+scipy>=1.13.0
+pandas>=2.2.0
+
+# Optional: for LLM-in-the-loop pilot
+# anthropic>=0.30.0

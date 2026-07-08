@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software or paper, please cite it as below."
+type: software
+title: "Mnemonic State Graph (MSG): A Cue-Gated, Human-in-the-Loop Memory Architecture for Conversational AI Systems"
+abstract: "MSG is a memory architecture built on the thesis that cognition in a human-LLM system is distributed. It combines a dual-graph working memory (dependency DAG + association graph), a confidence model that decays only on ignored cues, a six-type cue taxonomy with differentiated acceptance dynamics, and a Socratic conflict-resolution protocol. Evaluated across 132 randomized world instances, MSG achieves +22.8 pp accuracy over naive RAG at 4.8x lower token cost."
+authors:
+  - family-names: "Suresh"
+    given-names: "Agnel"
+    affiliation: "Machfold Ventures"
+    email: "agnelpm@gmail.com"
+repository-code: "https://github.com/agnel/msg-memory-architecture"
+license: MIT
+version: 2.0.0
+date-released: 2026-07-08
+keywords:
+  - long-term memory architecture
+  - human-in-the-loop AI
+  - cued recall
+  - retrieval-augmented generation
+  - conversational AI
+  - cognitive psychology
+  - confidence decay
+  - dependency graph
+  - LLM memory
+  - distributed cognition
+preferred-citation:
+  type: article
+  title: "Mnemonic State Graph (MSG): A Cue-Gated, Human-in-the-Loop Memory Architecture for Conversational AI Systems"
+  authors:
+    - family-names: "Suresh"
+      given-names: "Agnel"
+  year: 2026
+  journal: "arXiv preprint"
+  url: "https://github.com/agnel/msg-memory-architecture"

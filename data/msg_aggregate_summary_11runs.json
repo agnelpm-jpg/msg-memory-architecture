@@ -1,0 +1,91 @@
+{
+  "n_runs": 11,
+  "n_instances": 132,
+  "base_aggregate": {
+    "full": {
+      "accuracy_mean": 1.0,
+      "accuracy_std": 0.0,
+      "tokens_per_turn_mean": 54735.48181818181
+    },
+    "rag": {
+      "accuracy_mean": 0.3027545454545455,
+      "accuracy_std": 0.029565316400882596,
+      "tokens_per_turn_mean": 194.4818181818182
+    },
+    "msg": {
+      "accuracy_mean": 0.5305727272727272,
+      "accuracy_std": 0.04962069016611905,
+      "tokens_per_turn_mean": 41.25454545454546
+    }
+  },
+  "sweep_aggregate": {
+    "0.05": {
+      "full_acc_mean": 1.0,
+      "rag_acc_mean": 0.4278636363636364,
+      "rag_acc_std": 0.02603048117905666,
+      "msg_acc_mean": 0.6316545454545455,
+      "msg_acc_std": 0.03404495326733769,
+      "rag_tok_mean": 196.6909090909091,
+      "msg_tok_mean": 49.73636363636364,
+      "msg_false_mean": 0.2410727272727273,
+      "msg_socratic_mean": 0.3545454545454545
+    },
+    "0.1": {
+      "full_acc_mean": 1.0,
+      "rag_acc_mean": 0.3971545454545454,
+      "rag_acc_std": 0.02608337553574773,
+      "msg_acc_mean": 0.5904272727272727,
+      "msg_acc_std": 0.035265566283405346,
+      "rag_tok_mean": 211.59090909090904,
+      "msg_tok_mean": 48.99090909090909,
+      "msg_false_mean": 0.24390909090909094,
+      "msg_socratic_mean": 0.8818181818181817
+    },
+    "0.15": {
+      "full_acc_mean": 1.0,
+      "rag_acc_mean": 0.3773909090909091,
+      "rag_acc_std": 0.02454037321141167,
+      "msg_acc_mean": 0.5752272727272726,
+      "msg_acc_std": 0.02767036783633977,
+      "rag_tok_mean": 211.07272727272724,
+      "msg_tok_mean": 45.081818181818186,
+      "msg_false_mean": 0.25387272727272725,
+      "msg_socratic_mean": 0.9818181818181819
+    },
+    "0.2": {
+      "full_acc_mean": 1.0,
+      "rag_acc_mean": 0.3146090909090909,
+      "rag_acc_std": 0.021081334033407353,
+      "msg_acc_mean": 0.5173545454545455,
+      "msg_acc_std": 0.035943424323040166,
+      "rag_tok_mean": 198.57272727272724,
+      "msg_tok_mean": 41.1,
+      "msg_false_mean": 0.24613636363636363,
+      "msg_socratic_mean": 1.309090909090909
+    },
+    "0.3": {
+      "full_acc_mean": 1.0,
+      "rag_acc_mean": 0.2321090909090909,
+      "rag_acc_std": 0.01855269911975341,
+      "msg_acc_mean": 0.4515727272727272,
+      "msg_acc_std": 0.05022207212895162,
+      "rag_tok_mean": 197.0090909090909,
+      "msg_tok_mean": 37.10909090909091,
+      "msg_false_mean": 0.25490000000000007,
+      "msg_socratic_mean": 2.7636363636363637
+    },
+    "0.4": {
+      "full_acc_mean": 1.0,
+      "rag_acc_mean": 0.11173636363636365,
+      "rag_acc_std": 0.026105007277506698,
+      "msg_acc_mean": 0.41280909090909096,
+      "msg_acc_std": 0.06533788340820709,
+      "rag_tok_mean": 177.06363636363636,
+      "msg_tok_mean": 31.472727272727273,
+      "msg_false_mean": 0.22318181818181818,
+      "msg_socratic_mean": 3.3545454545454545
+    }
+  },
+  "msg_beats_rag_every_point_every_run": true,
+  "violations": []
+}
