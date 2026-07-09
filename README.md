@@ -2,8 +2,8 @@
 
 > A Cue-Gated, Human-in-the-Loop Memory Architecture for Conversational AI Systems
 
-[![Paper](https://img.shields.io/badge/Paper-ArXiv-red)](https://arxiv.org/abs/TODO)
-[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
+[![Paper](https://img.shields.io/badge/Paper-Orcid-blue)](https://orcid.org/0009-0009-9195-7417)
+[![Python](https://img.shields.io/badge/Python-3.12-red)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Runs](https://img.shields.io/badge/Runs-11%20independent-orange)]()
 [![Instances](https://img.shields.io/badge/World%20Instances-132-purple)]()
