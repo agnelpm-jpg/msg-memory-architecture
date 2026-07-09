@@ -6,7 +6,8 @@
 [![Python](https://img.shields.io/badge/Python-3.12-red)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Runs](https://img.shields.io/badge/Runs-11%20independent-orange)]()
-[![Instances](https://img.shields.io/badge/World%20Instances-132-purple)]()
+[![Instances](https://img.shields.io/badge/World%20Instances-132-purple)]
+[![Portfolio](https://img.shields.io/badge/Porfolio-white)](https://agnel.machfold.in/)
 
 ---
 
